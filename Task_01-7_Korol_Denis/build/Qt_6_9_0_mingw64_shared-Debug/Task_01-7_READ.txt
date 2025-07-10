@@ -1,0 +1,100 @@
+Dell Inspiron 15 3000
+1000
+Intel Core i5-1135G7
+
+HP Pavilion Gaming 15
+512
+AMD Ryzen 5 5600H
+
+Lenovo IdeaPad 3
+256
+Intel Core i3-1115G4
+
+Asus ROG Strix G15
+2000
+Intel Core i7-11800H
+
+Acer Aspire 5
+500
+AMD Ryzen 7 5700U
+
+Apple MacBook Air M1
+256
+Apple M1
+
+MSI GF63 Thin
+1000
+Intel Core i5-11400H
+
+Samsung Galaxy Book Pro
+512
+Intel Core i7-1165G7
+
+Xiaomi RedmiBook 15
+1000
+Intel Core i5-11300H
+
+Huawei MateBook D14
+500
+AMD Ryzen 5 5500U
+
+Dell XPS 15
+512
+Intel Core i7-11800H
+
+HP Spectre x360
+1000
+Intel Core i5-1235U
+
+Lenovo ThinkPad X1 Carbon
+256
+Intel Core i5-1240P
+
+Asus ZenBook 14
+500
+AMD Ryzen 7 5800U
+
+Acer Nitro 5
+2000
+Intel Core i5-12500H
+
+Apple MacBook Pro 14
+512
+Apple M1 Pro
+
+MSI Stealth GS66
+1000
+Intel Core i9-12900H
+
+Samsung Galaxy Book2 Pro
+512
+Intel Core i7-1260P
+
+Xiaomi Mi Notebook Pro
+1000
+Intel Core i7-11370H
+
+Huawei MateBook X Pro
+500
+Intel Core i7-1165G7
+
+Razer Blade 15
+2000
+Intel Core i7-12800H
+
+Microsoft Surface Laptop 4
+256
+AMD Ryzen 5 4680U
+
+LG Gram 17
+512
+Intel Core i5-1240P
+
+Alienware m15 R7
+1000
+Intel Core i7-12700H
+
+Lenovo Legion 5 Pro
+2000
+AMD Ryzen 7 6800H
+

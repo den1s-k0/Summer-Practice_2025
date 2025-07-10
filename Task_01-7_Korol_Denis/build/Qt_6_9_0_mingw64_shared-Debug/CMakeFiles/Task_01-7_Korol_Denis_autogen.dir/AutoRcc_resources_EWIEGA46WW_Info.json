@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis/build/Qt_6_9_0_mingw64_shared-Debug/Task_01-7_Korol_Denis_autogen",
+	"CMAKE_BINARY_DIR" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis/build/Qt_6_9_0_mingw64_shared-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis/build/Qt_6_9_0_mingw64_shared-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis",
+	"CMAKE_SOURCE_DIR" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis/build/Qt_6_9_0_mingw64_shared-Debug/Task_01-7_Korol_Denis_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis/build/Qt_6_9_0_mingw64_shared-Debug/CMakeFiles/Task_01-7_Korol_Denis_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/MSYS2 papka/mingw64/share/qt6/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis/build/Qt_6_9_0_mingw64_shared-Debug/CMakeFiles/Task_01-7_Korol_Denis_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/BSU/SummerPractice 2025 Korol Denis/Task_01-7_Korol_Denis/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

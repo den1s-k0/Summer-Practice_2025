@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/875d57be750dcfdacc84da705edc5c65.jpg</file>
+        <file>img/List.png</file>
+        <file>img/ListView.png</file>
+        <file>img/tabel.png</file>
+        <file>img/computer.jpg</file>
+        <file>img/List1.jpg</file>
+        <file>img/exit.png</file>
+    </qresource>
+</RCC>
